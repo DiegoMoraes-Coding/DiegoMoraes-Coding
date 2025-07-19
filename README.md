@@ -29,8 +29,13 @@
 
 ---
 
-### 🎧 Vibe enquanto codando
+### 🎧 Currently vibing to
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=uvwkc55u83ohiulydrqov0nwu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b273bad457d25e0d7084ffde5c8b" width="300" />
+  </a>
+  <br />
+  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">Play on Spotify</a>
 </p>
+
