@@ -33,9 +33,12 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b273bad457d25e0d7084ffde5c8b" width="300" />
+    <img src="https://i.scdn.co/image/ab67616d0000b273bad457d25e0d7084ffde5c8b" width="300" style="border-radius: 12px;" />
   </a>
   <br />
-  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">Play on Spotify</a>
+  <b>Hey Ya!</b> — OutKast  
+  <br />
+  <a href="https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp" target="_blank">▶️ Listen on Spotify</a>
 </p>
+
 
