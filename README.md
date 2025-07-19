@@ -30,7 +30,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Footer animado" style="width: 100%; max-height: 150px; object-fit: cover;" />
+  <img src="https://media.tenor.com/tFlIyydyL6YAAAAi/hacker-hackerman.gif" alt="Footer animado" style="width: 100%; max-height: 150px; object-fit: cover;" />
 </p>
 
 ---
