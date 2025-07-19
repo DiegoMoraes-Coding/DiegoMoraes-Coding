@@ -34,8 +34,8 @@
 ### 📊 Meus Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoMoraes-Coding&show_icons=true&theme=tokyonight&count_private=true&hide=issues" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoMoraes-Coding&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoMoraes-Coding&show_icons=true&theme=tokyonight&count_private=true&hide=issues&token=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" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoMoraes-Coding&theme=tokyonight&token=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" height="160" />
 </div>
 
 <div align="center">
