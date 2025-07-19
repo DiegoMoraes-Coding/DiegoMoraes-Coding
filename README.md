@@ -1,13 +1,24 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=header"/>
+<h1 align="center">Hey! 👋 I'm Diego Moraes</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4500&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Diego+Moraes!;Tenho+21+anos.;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-<br>
-<br>
-<br>
-<div align="center"> 
-<a href="https://www.linkedin.com/in/diego-moraes-46998a1b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- <br>
- <br>
- <br>
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=120&section=footer"/>
+<p align="center">
+  <b>.NET & Laravel Developer</b><br/>
+  Clean code · APIs · Databases · Automation · UI/UX · Cloud
+</p>
+
+<p align="center">
+  <a href="https://github.com/DiegoMoraes-Coding"><img src="https://img.shields.io/github/followers/DiegoMoraes?label=Follow&style=social"></a>
+  <a href="https://www.linkedin.com/in/diego-moraes-46998a1b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:diegopsn42@gmail.com"><img src="https://img.shields.io/badge/Email-DarkRed?logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+```bash
+🔹 .NET (C# • ASP.NET Core • MAUI • Worker Services)
+🔹 Laravel (PHP • Eloquent • Blade • Livewire)
+🔹 MySQL · SQL Server · Firebird · SQLite
+🔹 REST APIs · OAuth · Webhooks · JSON
+🔹 Bootstrap · Alpine.js · jQuery
+🔹 Git · Docker · Azure · GitHub Actions
