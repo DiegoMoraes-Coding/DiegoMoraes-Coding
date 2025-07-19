@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, sou Diego Moraes</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/diego-moraes-46998a1b7/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" />
-    &nbsp;<strong>LinkedIn</strong>
+  <a href="https://www.linkedin.com/in/diego-moraes-46998a1b7/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
