@@ -29,10 +29,8 @@
 
 ---
 
-### 🐍 GitHub Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DiegoMoraes-Coding/DiegoMoraes-Coding/output/github-contribution-grid-snake.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=E95420&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Apaixonado+por+c%C3%B3digo+e+inova%C3%A7%C3%A3o;Always+building+something+new..." />
 </p>
 
 
