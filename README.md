@@ -1,5 +1,12 @@
 <h1 align="center">Olá 👋, sou Diego Moraes</h1>
 <p align="center">
+  <a href="https://www.linkedin.com/in/diego-moraes-46998a1b7/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" height="24" />
+    &nbsp;<strong>LinkedIn</strong>
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=DiegoMoraes-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="DiegoMoraes-Coding" />
 </p>
 
