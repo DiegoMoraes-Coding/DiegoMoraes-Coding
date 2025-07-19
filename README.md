@@ -29,10 +29,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/1CnFSvfLeLsAAAAC/bug-programmer.gif" alt="Footer animado" style="width: 100%; max-height: 150px; object-fit: cover;" />
-</p>
-
----
-
 
