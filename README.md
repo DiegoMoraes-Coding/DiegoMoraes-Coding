@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, sou Diego Moraes</h1>
+<h1 align="center">Hi, I'm Diego Moraes</h1>
+<h3 align="center">Backend-focused Full Stack Software Engineer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-moraes-46998a1b7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -6,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DiegoMoraes-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="DiegoMoraes-Coding" />
+Building scalable web, mobile, and backend systems using .NET, Laravel, REST APIs, and SQL.
 </p>
 
 ---
@@ -27,12 +28,5 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiegoMoraes-Coding&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
 
 
