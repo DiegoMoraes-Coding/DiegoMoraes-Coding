@@ -2,8 +2,10 @@
 <h3 align="center">Backend-focused Full Stack Software Engineer</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/diego-moraes-46998a1b7/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Brazil%20(BRT)-green?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Work-Remote%20/%20Global-blue?style=flat-square" alt="Work Preference" />
 </p>
 
 <p align="center">
